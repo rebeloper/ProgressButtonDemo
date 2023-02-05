@@ -11,7 +11,7 @@ import SwiftUI
 struct ProgressButtonDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            DemoView()
+            ContentView()
         }
     }
 }

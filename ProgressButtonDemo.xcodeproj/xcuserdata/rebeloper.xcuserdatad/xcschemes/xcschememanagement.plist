@@ -4,10 +4,44 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>ProgressButtonDemo-macOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>ProgressButtonDemo-watchOS Watch App.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>ProgressButtonDemo.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C90E3DD9298F7E8F00D5EFF4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C90E3DF3298F7F6600D5EFF4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C90E3E08298F83CD00D5EFF4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
