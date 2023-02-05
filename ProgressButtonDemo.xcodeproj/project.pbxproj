@@ -11,6 +11,23 @@
 		C90E3DE0298F7E8F00D5EFF4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3DDF298F7E8F00D5EFF4 /* ContentView.swift */; };
 		C90E3DE2298F7E9000D5EFF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C90E3DE1298F7E9000D5EFF4 /* Assets.xcassets */; };
 		C90E3DE5298F7E9000D5EFF4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C90E3DE4298F7E9000D5EFF4 /* Preview Assets.xcassets */; };
+		C90E3DEC298F7EAC00D5EFF4 /* ProgressButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3DEB298F7EAC00D5EFF4 /* ProgressButton.swift */; };
+		C90E3DEE298F7EF700D5EFF4 /* DemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3DED298F7EF700D5EFF4 /* DemoView.swift */; };
+		C90E3DF7298F7F6600D5EFF4 /* ProgressButtonDemo_macOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3DF6298F7F6600D5EFF4 /* ProgressButtonDemo_macOSApp.swift */; };
+		C90E3DF9298F7F6600D5EFF4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3DF8298F7F6600D5EFF4 /* ContentView.swift */; };
+		C90E3DFB298F7F6800D5EFF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C90E3DFA298F7F6800D5EFF4 /* Assets.xcassets */; };
+		C90E3DFE298F7F6800D5EFF4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C90E3DFD298F7F6800D5EFF4 /* Preview Assets.xcassets */; };
+		C90E3E03298F7F7700D5EFF4 /* ProgressButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3DEB298F7EAC00D5EFF4 /* ProgressButton.swift */; };
+		C90E3E04298F7F7700D5EFF4 /* DemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3DED298F7EF700D5EFF4 /* DemoView.swift */; };
+		C90E3E0C298F83CD00D5EFF4 /* ProgressButtonDemo_watchOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3E0B298F83CD00D5EFF4 /* ProgressButtonDemo_watchOSApp.swift */; };
+		C90E3E0E298F83CD00D5EFF4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3E0D298F83CD00D5EFF4 /* ContentView.swift */; };
+		C90E3E10298F83CE00D5EFF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C90E3E0F298F83CE00D5EFF4 /* Assets.xcassets */; };
+		C90E3E13298F83CE00D5EFF4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C90E3E12298F83CE00D5EFF4 /* Preview Assets.xcassets */; };
+		C90E3E17298F83DE00D5EFF4 /* DemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3DED298F7EF700D5EFF4 /* DemoView.swift */; };
+		C90E3E18298F83DE00D5EFF4 /* ProgressButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3DEB298F7EAC00D5EFF4 /* ProgressButton.swift */; };
+		C90E3E2E298FA80500D5EFF4 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3E2D298FA80500D5EFF4 /* Service.swift */; };
+		C90E3E2F298FA80500D5EFF4 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3E2D298FA80500D5EFF4 /* Service.swift */; };
+		C90E3E30298FA80500D5EFF4 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90E3E2D298FA80500D5EFF4 /* Service.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,10 +36,39 @@
 		C90E3DDF298F7E8F00D5EFF4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C90E3DE1298F7E9000D5EFF4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C90E3DE4298F7E9000D5EFF4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C90E3DEB298F7EAC00D5EFF4 /* ProgressButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressButton.swift; sourceTree = "<group>"; };
+		C90E3DED298F7EF700D5EFF4 /* DemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoView.swift; sourceTree = "<group>"; };
+		C90E3DEF298F7F4A00D5EFF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		C90E3DF4298F7F6600D5EFF4 /* ProgressButtonDemo-macOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ProgressButtonDemo-macOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C90E3DF6298F7F6600D5EFF4 /* ProgressButtonDemo_macOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressButtonDemo_macOSApp.swift; sourceTree = "<group>"; };
+		C90E3DF8298F7F6600D5EFF4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C90E3DFA298F7F6800D5EFF4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C90E3DFD298F7F6800D5EFF4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C90E3DFF298F7F6800D5EFF4 /* ProgressButtonDemo_macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ProgressButtonDemo_macOS.entitlements; sourceTree = "<group>"; };
+		C90E3E09298F83CD00D5EFF4 /* ProgressButtonDemo-watchOS Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ProgressButtonDemo-watchOS Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C90E3E0B298F83CD00D5EFF4 /* ProgressButtonDemo_watchOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressButtonDemo_watchOSApp.swift; sourceTree = "<group>"; };
+		C90E3E0D298F83CD00D5EFF4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C90E3E0F298F83CE00D5EFF4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C90E3E12298F83CE00D5EFF4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C90E3E2D298FA80500D5EFF4 /* Service.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		C90E3DD7298F7E8F00D5EFF4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C90E3DF1298F7F6600D5EFF4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C90E3E06298F83CD00D5EFF4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -36,6 +82,8 @@
 			isa = PBXGroup;
 			children = (
 				C90E3DDC298F7E8F00D5EFF4 /* ProgressButtonDemo */,
+				C90E3DF5298F7F6600D5EFF4 /* ProgressButtonDemo-macOS */,
+				C90E3E0A298F83CD00D5EFF4 /* ProgressButtonDemo-watchOS Watch App */,
 				C90E3DDB298F7E8F00D5EFF4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -44,6 +92,8 @@
 			isa = PBXGroup;
 			children = (
 				C90E3DDA298F7E8F00D5EFF4 /* ProgressButtonDemo.app */,
+				C90E3DF4298F7F6600D5EFF4 /* ProgressButtonDemo-macOS.app */,
+				C90E3E09298F83CD00D5EFF4 /* ProgressButtonDemo-watchOS Watch App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -51,8 +101,12 @@
 		C90E3DDC298F7E8F00D5EFF4 /* ProgressButtonDemo */ = {
 			isa = PBXGroup;
 			children = (
+				C90E3DEF298F7F4A00D5EFF4 /* Info.plist */,
 				C90E3DDD298F7E8F00D5EFF4 /* ProgressButtonDemoApp.swift */,
 				C90E3DDF298F7E8F00D5EFF4 /* ContentView.swift */,
+				C90E3DED298F7EF700D5EFF4 /* DemoView.swift */,
+				C90E3E2D298FA80500D5EFF4 /* Service.swift */,
+				C90E3DEB298F7EAC00D5EFF4 /* ProgressButton.swift */,
 				C90E3DE1298F7E9000D5EFF4 /* Assets.xcassets */,
 				C90E3DE3298F7E9000D5EFF4 /* Preview Content */,
 			);
@@ -63,6 +117,45 @@
 			isa = PBXGroup;
 			children = (
 				C90E3DE4298F7E9000D5EFF4 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C90E3DF5298F7F6600D5EFF4 /* ProgressButtonDemo-macOS */ = {
+			isa = PBXGroup;
+			children = (
+				C90E3DF6298F7F6600D5EFF4 /* ProgressButtonDemo_macOSApp.swift */,
+				C90E3DF8298F7F6600D5EFF4 /* ContentView.swift */,
+				C90E3DFA298F7F6800D5EFF4 /* Assets.xcassets */,
+				C90E3DFF298F7F6800D5EFF4 /* ProgressButtonDemo_macOS.entitlements */,
+				C90E3DFC298F7F6800D5EFF4 /* Preview Content */,
+			);
+			path = "ProgressButtonDemo-macOS";
+			sourceTree = "<group>";
+		};
+		C90E3DFC298F7F6800D5EFF4 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				C90E3DFD298F7F6800D5EFF4 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C90E3E0A298F83CD00D5EFF4 /* ProgressButtonDemo-watchOS Watch App */ = {
+			isa = PBXGroup;
+			children = (
+				C90E3E0B298F83CD00D5EFF4 /* ProgressButtonDemo_watchOSApp.swift */,
+				C90E3E0D298F83CD00D5EFF4 /* ContentView.swift */,
+				C90E3E0F298F83CE00D5EFF4 /* Assets.xcassets */,
+				C90E3E11298F83CE00D5EFF4 /* Preview Content */,
+			);
+			path = "ProgressButtonDemo-watchOS Watch App";
+			sourceTree = "<group>";
+		};
+		C90E3E11298F83CE00D5EFF4 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				C90E3E12298F83CE00D5EFF4 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -87,6 +180,40 @@
 			productReference = C90E3DDA298F7E8F00D5EFF4 /* ProgressButtonDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
+		C90E3DF3298F7F6600D5EFF4 /* ProgressButtonDemo-macOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C90E3E00298F7F6800D5EFF4 /* Build configuration list for PBXNativeTarget "ProgressButtonDemo-macOS" */;
+			buildPhases = (
+				C90E3DF0298F7F6600D5EFF4 /* Sources */,
+				C90E3DF1298F7F6600D5EFF4 /* Frameworks */,
+				C90E3DF2298F7F6600D5EFF4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "ProgressButtonDemo-macOS";
+			productName = "ProgressButtonDemo-macOS";
+			productReference = C90E3DF4298F7F6600D5EFF4 /* ProgressButtonDemo-macOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C90E3E08298F83CD00D5EFF4 /* ProgressButtonDemo-watchOS Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C90E3E14298F83CE00D5EFF4 /* Build configuration list for PBXNativeTarget "ProgressButtonDemo-watchOS Watch App" */;
+			buildPhases = (
+				C90E3E05298F83CD00D5EFF4 /* Sources */,
+				C90E3E06298F83CD00D5EFF4 /* Frameworks */,
+				C90E3E07298F83CD00D5EFF4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "ProgressButtonDemo-watchOS Watch App";
+			productName = "ProgressButtonDemo-watchOS Watch App";
+			productReference = C90E3E09298F83CD00D5EFF4 /* ProgressButtonDemo-watchOS Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -98,6 +225,12 @@
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
 					C90E3DD9298F7E8F00D5EFF4 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					C90E3DF3298F7F6600D5EFF4 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					C90E3E08298F83CD00D5EFF4 = {
 						CreatedOnToolsVersion = 14.2;
 					};
 				};
@@ -116,6 +249,8 @@
 			projectRoot = "";
 			targets = (
 				C90E3DD9298F7E8F00D5EFF4 /* ProgressButtonDemo */,
+				C90E3DF3298F7F6600D5EFF4 /* ProgressButtonDemo-macOS */,
+				C90E3E08298F83CD00D5EFF4 /* ProgressButtonDemo-watchOS Watch App */,
 			);
 		};
 /* End PBXProject section */
@@ -130,6 +265,24 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		C90E3DF2298F7F6600D5EFF4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C90E3DFE298F7F6800D5EFF4 /* Preview Assets.xcassets in Resources */,
+				C90E3DFB298F7F6800D5EFF4 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C90E3E07298F83CD00D5EFF4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C90E3E13298F83CE00D5EFF4 /* Preview Assets.xcassets in Resources */,
+				C90E3E10298F83CE00D5EFF4 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -137,8 +290,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C90E3DEC298F7EAC00D5EFF4 /* ProgressButton.swift in Sources */,
+				C90E3DEE298F7EF700D5EFF4 /* DemoView.swift in Sources */,
+				C90E3E2E298FA80500D5EFF4 /* Service.swift in Sources */,
 				C90E3DE0298F7E8F00D5EFF4 /* ContentView.swift in Sources */,
 				C90E3DDE298F7E8F00D5EFF4 /* ProgressButtonDemoApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C90E3DF0298F7F6600D5EFF4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C90E3E03298F7F7700D5EFF4 /* ProgressButton.swift in Sources */,
+				C90E3E04298F7F7700D5EFF4 /* DemoView.swift in Sources */,
+				C90E3E2F298FA80500D5EFF4 /* Service.swift in Sources */,
+				C90E3DF9298F7F6600D5EFF4 /* ContentView.swift in Sources */,
+				C90E3DF7298F7F6600D5EFF4 /* ProgressButtonDemo_macOSApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C90E3E05298F83CD00D5EFF4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C90E3E18298F83DE00D5EFF4 /* ProgressButton.swift in Sources */,
+				C90E3E0E298F83CD00D5EFF4 /* ContentView.swift in Sources */,
+				C90E3E30298FA80500D5EFF4 /* Service.swift in Sources */,
+				C90E3E17298F83DE00D5EFF4 /* DemoView.swift in Sources */,
+				C90E3E0C298F83CD00D5EFF4 /* ProgressButtonDemo_watchOSApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,7 +450,7 @@
 				DEVELOPMENT_TEAM = R252PR8AVU;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_FILE = ProgressButtonDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -299,7 +479,7 @@
 				DEVELOPMENT_TEAM = R252PR8AVU;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_FILE = ProgressButtonDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -314,6 +494,124 @@
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		C90E3E01298F7F6800D5EFF4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "ProgressButtonDemo-macOS/ProgressButtonDemo_macOS.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ProgressButtonDemo-macOS/Preview Content\"";
+				DEVELOPMENT_TEAM = R252PR8AVU;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rebeloper.ProgressButtonDemo-macOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		C90E3E02298F7F6800D5EFF4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "ProgressButtonDemo-macOS/ProgressButtonDemo_macOS.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ProgressButtonDemo-macOS/Preview Content\"";
+				DEVELOPMENT_TEAM = R252PR8AVU;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rebeloper.ProgressButtonDemo-macOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		C90E3E15298F83CE00D5EFF4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ProgressButtonDemo-watchOS Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = R252PR8AVU;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "ProgressButtonDemo-watchOS";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = .watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 9.1;
+			};
+			name = Debug;
+		};
+		C90E3E16298F83CE00D5EFF4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ProgressButtonDemo-watchOS Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = R252PR8AVU;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "ProgressButtonDemo-watchOS";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = .watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 9.1;
 			};
 			name = Release;
 		};
@@ -334,6 +632,24 @@
 			buildConfigurations = (
 				C90E3DE9298F7E9000D5EFF4 /* Debug */,
 				C90E3DEA298F7E9000D5EFF4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C90E3E00298F7F6800D5EFF4 /* Build configuration list for PBXNativeTarget "ProgressButtonDemo-macOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C90E3E01298F7F6800D5EFF4 /* Debug */,
+				C90E3E02298F7F6800D5EFF4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C90E3E14298F83CE00D5EFF4 /* Build configuration list for PBXNativeTarget "ProgressButtonDemo-watchOS Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C90E3E15298F83CE00D5EFF4 /* Debug */,
+				C90E3E16298F83CE00D5EFF4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
